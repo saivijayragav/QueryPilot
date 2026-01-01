@@ -1,3 +1,6 @@
 .env
 .venv
 .vscode
+Checkpoint.sqlite
+__pycache__
+chart_*.png
